@@ -1,0 +1,17 @@
+# Code Editors
+.vscode/
+
+# .env files
+.env
+
+# python cache
+__pycache__/
+
+# logs
+*.log
+
+# virtual environments
+.venv/
+.env/
+venv/
+env/
