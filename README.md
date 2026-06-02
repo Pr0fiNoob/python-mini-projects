@@ -86,6 +86,7 @@ Ensure the following libraries are installed:
 - `requests` (install via `pip install requests`)
 - `bs4` (install via `pip install beautifulsoup4`)
 
+- The libraries can also be installed by running `pip install -r requirements.txt`
 ---
 
 ## Running the Scripts
