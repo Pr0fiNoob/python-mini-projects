@@ -67,6 +67,15 @@ Welcome to the repository of Python mini-projects! This collection includes a va
 
 ---
 
+### 7. Image Converter
+**File:** `convert.py`
+- **Description:** Converts an Image from one Format to another.
+- **Usage:**
+  run `python convert.py <path_to_image> <format>` (for Windows)
+  run `python3 convert.py <path_to_image> <format>` (for Linux)
+
+---
+
 ## Requirements
 Ensure the following libraries are installed:
 - `time` (standard library)
